@@ -4,7 +4,7 @@ Use psake to build a C# project and use RoundHousE to 'kick' a NorthWind Databas
 Requires SQL or SQLExpress installed on your local environment.
 
 #Instructions
-From your powershell command line, navigate to base folder (RoundhousE.Psake.Example) and run ".\build ?" to view the available build options/commands.
+From your powershell command line, navigate to base folder (RoundhousE.Psake.Example) and run "```.\build ?```" to view the available build options/commands.
 
 ```build```  or ```build default``` > Preforms a regular build by just compiling the solution.
 
